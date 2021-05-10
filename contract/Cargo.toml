@@ -1,0 +1,16 @@
+[package]
+name = "pwasm-tutorial-contract"
+version = "0.1.0"
+authors = ["Sopheak Sem <sopheaksem1993@gmail.com>"]
+
+[dependencies]
+pwasm-std = "0.13"
+pwasm-ethereum = "0.8"
+
+[lib]
+crate-type = ["cdylib"]
+
+[profile.release]
+panic = "abort"
+lto = true
+opt-level = "z"

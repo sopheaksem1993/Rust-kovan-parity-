@@ -1,0 +1,1 @@
+/home/top/Workstation/LocalDriveB/Test/Rust/Rust-Wasm-contract\ (Kovan)/Rust-kovan-parity-/contract/target/wasm32-unknown-unknown/release/pwasm_tutorial_contract.wasm: /home/top/Workstation/LocalDriveB/Test/Rust/Rust-Wasm-contract\ (Kovan)/Rust-kovan-parity-/contract/src/lib.rs
